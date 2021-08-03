@@ -3,15 +3,15 @@
 
 
 - 🔭 Atualmente estou em busca do meu primeiro emprego!
-- 🌱 Estou estudando desenvolvimento Full-Stack em React e Node.JS, através do Programa de bolsas - Start Tech ofertado pela AmBev Tech em parceria com a Gama Academy.
+- 🌱 Estudando desenvolvimento Full-Stack em React e Node.JS, através do Programa de bolsas - Start Tech ofertado pela AmBev Tech em parceria com a Gama Academy.
 - 😄 Pronomes: ela/dela
 
 ##
 
  <div>
   <a href="https://github.com/monaracalado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monaracalado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monaracalado&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=monaracalado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monaracalado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
