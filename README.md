@@ -12,10 +12,10 @@
   ##
   
 <div> 
-  <a href="https://www.linkedin.com/in/monaracalado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/caladomonara" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:monaracalado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/monaracalado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/monaracalado" target="_blank"><img src="https://img.shields.io/badge/-Monara%20Calado-%230077B5?style=fflat-square&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/caladomonara" target="_blank"><img src="https://img.shields.io/badge/-@caladomonara-1DA1F2?style=flat-square&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:monaracalado@gmail.com"><img src="https://img.shields.io/badge/-monaracalado@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/monaracalado" target="_blank"><img src="https://img.shields.io/badge/-monaracalado-%23E4405F?style=fflat-square&logo=instagram&logoColor=white" target="_blank"></a>
  
 </div>
 
