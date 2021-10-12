@@ -1,11 +1,11 @@
-### Oiii, boas vindas! Eu sou a Monara Calado! 👋
+### Oiii, boas-vindas! Eu sou a Monara Calado! 👋
 
 ##
 
 <img align="right" alt="Avata" heigth="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_CiQDepU6.png">
 
 - 🔭 Atualmente estou em busca do meu primeiro emprego!
-- 🌱 Estudando desenvolvimento Full-Stack em React.JS e Node.JS, através do Programa de bolsas - Start Tech ofertado pela AmBev Tech em parceria com a Gama Academy.
+- 🌱 Estudando Desenvolvimento Full Stack em React.JS e Java, através do Programa Recode Pro, que visa formar e preparar os jovens para o mercado de trabalho como programadores Full Stack.
 - 😄 Pronomes: ela/dela
 
   
@@ -35,7 +35,8 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
    
    ##
