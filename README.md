@@ -2,7 +2,7 @@
 
 ##
 
-<img align="right" alt="Avata" heigth="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_CiQDepU6.png">
+<img align="right" alt="Avatar" heigth="150" width="150" src="https://cdn.discordapp.com/attachments/914681088847261770/914681426358726686/avatar.png">
 
 - 🔭 Atualmente estou em busca do meu primeiro emprego!
 - 🌱 Estudando Desenvolvimento Full Stack em React.JS e Java, através do Programa Recode Pro, que visa formar e preparar os jovens para o mercado de trabalho como programadores Full Stack.
