@@ -5,7 +5,8 @@
 <img align="right" alt="Avatar" heigth="150" width="150" src="https://cdn.discordapp.com/attachments/914681088847261770/914681426358726686/avatar.png">
 
 - 🔭 Atualmente estou em busca do meu primeiro emprego!
-- 🌱 Estudando Desenvolvimento Full Stack em React.JS e Java, através do Programa Recode Pro, que visa formar e preparar os jovens para o mercado de trabalho como programadores Full Stack.
+- 👩‍💻 Estudando Desenvolvimento Full Stack em React.JS e Java, através do Programa Recode Pro, que visa formar e preparar os jovens para o mercado de trabalho como programadores Full Stack.
+- 🙋‍♀️ Monitora voluntaria da {reprograma}, uma iniciativa de impacto social que foca em ensinar programação para mulheres cis e trans que não têm recursos e/ou oportunidades para aprender a programar.
 - 😄 Pronomes: ela/dela
 
   
