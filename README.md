@@ -6,7 +6,7 @@
 
 - 🔭 Desenvolvedora Web Front End
 - 👩‍💻 Estagiaria na DBC Company
-- 🌱 Aprendizado atual Node.Js, React e muito mais!!
+- 🌱 Aprendizado atual JavaScript, React e muito mais!!
 - 😄 Pronomes: ela/dela
 - 🎯 Objetivo: Dev Full Stack
 
