@@ -5,8 +5,8 @@
 <img align="right" alt="Avatar" heigth="150" width="150" src="https://cdn.discordapp.com/attachments/914681088847261770/914681426358726686/avatar.png">
 
 - 🔭 Desenvolvedora Web Front End
-- 👩‍💻 Estagiaria na DBC Company
-- 🌱 Aprendizado atual JavaScript, React e muito mais!!
+- 👩‍💻 Desenvolvedora de Sistemas na DBC Company
+- 🌱 Aprendizado atual Typescript, React e muito mais!!
 - 😄 Pronomes: ela/dela
 - 🎯 Objetivo: Dev Full Stack
 
